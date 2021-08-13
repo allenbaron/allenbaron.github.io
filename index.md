@@ -11,35 +11,35 @@ Schriml, L. M., Mitraka, E., Munro, J., Tauber, B., Schor, M., Nickle, L., Felix
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gky1032&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gky1032&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1242/dmm.032839&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1242/dmm.032839&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1007/s00335-015-9576-9&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1007/s00335-015-9576-9&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/database/bav032&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/database/bav032&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gku1011&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gku1011&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gkr972&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/nar/gkr972&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1186/1471-2164-10-S1-S6&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1186/1471-2164-10-S1-S6&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 Add text
 
-<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/bioinformatics/btp193&apiKey=7f13afb57fb600ab6e7d2fc0560eb939&httpAccept=text/html"></object>
+<object height="50" data="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093/bioinformatics/btp193&apiKey=68e42305bcbe4ae837866c8e9ae7b30f&httpAccept=text/html"></object>
 
 
 # Github Default Content
